@@ -8,4 +8,10 @@ Team Members:
 
 **Akshit Gupte**, Biomedical Engineering, gupteat@mail.uc.edu
 
-Project Topic: A solution for a non-invasive neuromodulation spinal treatment for adults with major depressive disorder that can be delivered safely and consistently while addressing treatment repeatability, patient comfort, monitoring, and practical clinical use.
+Project Advisor:
+
+**Aaron Burdette**
+
+Project Topic:
+
+A solution for a non-invasive neuromodulation spinal treatment for adults with major depressive disorder that can be delivered safely and consistently while addressing treatment repeatability, patient comfort, monitoring, and practical clinical use.
