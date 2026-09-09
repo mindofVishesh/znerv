@@ -51,14 +51,3 @@ I am a senior Computer Science student with a minor in Finance at the University
 * **Student Associate | UC Digital Philanthropy Center** *(January 2025 – December 2025)*: Engaged directly with university alumni to secure program support, honing communication and outreach skills.
 
 ---
-
-## Project Sought
-
-I am seeking a Senior Design Capstone Project centered on **Autonomous AI Agents**, **Full-Stack Systems**, or **Intelligent Data Pipelines**. 
-
-Specific project areas of interest include:
-* **Multi-Agent Orchestration Platforms:** Building systems using LLM frameworks (e.g., LangGraph, AutoGen, or custom agent architectures) to automate complex, multi-step business logic, data extraction, or research synthesis.
-* **AI-Powered Web Applications:** Engineering full-stack applications combining responsive frontends with robust backend microservices, vector search, or on-device/cloud ML inference.
-* **Applied FinTech & Predictive Systems:** Developing software solutions that apply algorithmic models, automated data ingestion, and analytical pipelines to financial workflows or market intelligence.
-
-I am eager to contribute primarily to backend architecture, LLM agent pipelines, API design, and system integration while collaborating closely on interface usability and software deployment.
